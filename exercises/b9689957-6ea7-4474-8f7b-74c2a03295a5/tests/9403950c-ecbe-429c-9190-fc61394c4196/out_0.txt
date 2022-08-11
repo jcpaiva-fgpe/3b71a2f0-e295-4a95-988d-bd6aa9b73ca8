@@ -1,0 +1,1 @@
+<table><tbody><tr><th>FIRST_NAME</th><th>LAST_NAME</th><th>DEPARTMENT_ID</th></tr><tr><td>Lex</td><td>De Haan</td><td>90</td></tr><tr><td>Pat</td><td>Fay</td><td>20</td></tr><tr><td>Michael</td><td>Hartstein</td><td>20</td></tr><tr><td>Steven</td><td>King</td><td>90</td></tr><tr><td>Neena</td><td>Kochhar</td><td>90</td></tr></tbody></table>
