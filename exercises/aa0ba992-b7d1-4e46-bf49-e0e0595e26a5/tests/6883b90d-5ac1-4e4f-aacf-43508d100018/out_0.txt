@@ -1,0 +1,1 @@
+<table><tbody><tr><th>STREET_ADDRESS</th><th>CITY</th><th>COUNTRY_NAME</th></tr><tr><td>8204 Arthur St</td><td>London</td><td>United Kingdom</td></tr><tr><td>Magdalen Centre, The Oxford Science Park</td><td>Oxford</td><td>United Kingdom</td></tr><tr><td>9702 Chester Road</td><td>Stretford</td><td>United Kingdom</td></tr></tbody></table>
