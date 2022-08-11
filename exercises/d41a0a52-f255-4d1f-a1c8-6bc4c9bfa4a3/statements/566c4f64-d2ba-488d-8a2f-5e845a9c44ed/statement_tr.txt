@@ -1,0 +1,1 @@
+<p>Adının bulunduğu bölgedeki her ülkede var olan bölümlerin sayısını gösterir <code>'Europe'. </code></p><p>Ülke adına alfabetik olarak sonuçları sipariş eder.</p>
