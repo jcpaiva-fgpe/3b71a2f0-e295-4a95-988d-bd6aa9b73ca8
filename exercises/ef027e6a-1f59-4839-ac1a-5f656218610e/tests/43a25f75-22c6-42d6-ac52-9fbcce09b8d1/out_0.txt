@@ -1,0 +1,1 @@
+<table><tbody><tr><th>REGION_NAME</th><th>DEPARTMENT_NAME</th></tr><tr><td>Europe</td><td>Human Resources</td></tr><tr><td>Europe</td><td>Public Relations</td></tr><tr><td>Europe</td><td>Sales</td></tr></tbody></table>
