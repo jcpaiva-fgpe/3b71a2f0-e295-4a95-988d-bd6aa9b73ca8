@@ -1,0 +1,1 @@
+<table><tbody><tr><th>DEPARTMENT_NAME</th><th>LOCATION_ID</th></tr><tr><td>IT</td><td>1400</td></tr><tr><td>Public Relations</td><td>2700</td></tr><tr><td>Sales</td><td>2500</td></tr><tr><td>Shipping</td><td>1500</td></tr></tbody></table>
