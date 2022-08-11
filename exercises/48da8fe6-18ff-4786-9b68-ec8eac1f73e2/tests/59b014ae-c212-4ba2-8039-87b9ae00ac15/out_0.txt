@@ -1,0 +1,1 @@
+<table><tbody><tr><th>AVERAGE COMMISSION</th></tr><tr><td>0.35</td></tr></tbody></table>
