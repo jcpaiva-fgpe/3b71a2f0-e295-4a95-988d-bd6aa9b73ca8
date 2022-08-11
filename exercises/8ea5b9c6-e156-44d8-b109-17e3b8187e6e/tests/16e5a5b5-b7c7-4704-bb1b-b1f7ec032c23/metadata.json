@@ -1,1 +1,1 @@
-{"id":"16e5a5b5-b7c7-4704-bb1b-b1f7ec032c23","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"16e5a5b5-b7c7-4704-bb1b-b1f7ec032c23","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"We only need COUNTRY_NAME from COUNTRIES","weight":"0"}]}
