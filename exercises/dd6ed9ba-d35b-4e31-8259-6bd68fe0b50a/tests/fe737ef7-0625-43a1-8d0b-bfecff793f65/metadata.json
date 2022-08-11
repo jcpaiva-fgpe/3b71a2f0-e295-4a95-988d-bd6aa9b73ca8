@@ -1,1 +1,1 @@
-{"id":"fe737ef7-0625-43a1-8d0b-bfecff793f65","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"fe737ef7-0625-43a1-8d0b-bfecff793f65","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"Remember: SELECT * FROM [table_name]","weight":"0"}]}
