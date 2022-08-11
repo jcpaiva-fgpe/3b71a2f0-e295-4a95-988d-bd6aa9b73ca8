@@ -1,0 +1,1 @@
+SELECT STREET_ADDRESS AS "Street Address", CITY AS "Ciudades" FROM locations
