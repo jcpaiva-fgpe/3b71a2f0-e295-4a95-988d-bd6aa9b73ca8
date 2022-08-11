@@ -1,0 +1,1 @@
+<h3>Ejercicio:</h3><p>Muestra, en esta ocasi&oacute;n, todos los datos de la tabla <code>departments</code>.</p>
