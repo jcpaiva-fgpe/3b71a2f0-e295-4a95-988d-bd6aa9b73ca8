@@ -1,0 +1,1 @@
+<p>Muestra las <strong><em>direcciones</em></strong> (<code>STREET_ADDRESS</code>) y <strong><em>ciudades</em></strong> (<code>CITY</code>) almacenadas en la tabla <code>locations</code> del esquema <code>HR</code>.</p>
