@@ -1,0 +1,1 @@
+<p>Visar <strong><em>Adresser</em></strong> (b)<code>STREET_ADDRESS</code>) och <strong><em>städer</em></strong> (b)<code>CITY</code>) lagras i tabellen <code>locations</code> av systemet <code>HR</code>.</p>
