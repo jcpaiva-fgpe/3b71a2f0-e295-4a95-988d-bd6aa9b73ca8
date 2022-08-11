@@ -1,0 +1,7 @@
+SELECT FIRST_NAME, LAST_NAME
+FROM employees, departments
+WHERE
+    employees.DEPARTMENT_ID = departments.DEPARTMENT_ID
+    AND
+    DEPARTMENT_NAME = 'Marketing'
+ORDER BY LAST_NAME
