@@ -1,0 +1,1 @@
+<table><tbody><tr><th>STREET_ADDRESS</th><th>NO NUMBER</th></tr><tr><td>1297 Via Cola di Rie</td><td>Via Cola di Rie</td></tr><tr><td>93091 Calle della Testa</td><td>Calle della Testa</td></tr></tbody></table>
