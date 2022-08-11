@@ -1,0 +1,1 @@
+<p>Det visar antalet avdelningar som finns i vart och ett av de länder som finns i regionen vars namn är. <code>'Europe'. </code></p><p>Den beställer resultaten alfabetiskt med namnet på landet.</p>
