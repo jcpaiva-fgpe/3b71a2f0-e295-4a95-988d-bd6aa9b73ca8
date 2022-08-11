@@ -1,0 +1,1 @@
+<p>Shows the <strong><em>addresses</em></strong> (<code>STREET_ADDRESS</code>) and <strong><em>cities</em></strong> (<code>CITY</code>) stored in the table <code>locations</code> of the scheme <code>HR</code>.</p>
