@@ -1,0 +1,1 @@
+<p>Muestra la cantidad de departamentos que existe en cada uno de los pa&iacute;ses que est&aacute;n en la regi&oacute;n cuyo nombre es <code>&#39;Europe&#39;.&nbsp;</code></p><p>Ordena los resultados alfab&eacute;ticamente por el nombre del pa&iacute;s.&nbsp;</p>
