@@ -1,0 +1,1 @@
+<h3>Exercise:</h3><p>It shows, on this occasion, all the data in the table <code>departments</code>.</p>
