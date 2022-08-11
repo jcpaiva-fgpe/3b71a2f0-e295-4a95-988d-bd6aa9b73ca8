@@ -1,0 +1,1 @@
+<table><tbody><tr><th>BIGGEST SALARY</th><th>LOWEST SALARY</th></tr><tr><td>5500</td><td>2000</td></tr></tbody></table>
