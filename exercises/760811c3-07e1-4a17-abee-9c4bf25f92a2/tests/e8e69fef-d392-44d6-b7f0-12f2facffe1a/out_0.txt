@@ -1,0 +1,1 @@
+<table><tbody><tr><th>JOB_TITLE</th><th>MIN_SALARY</th><th>MAX_SALARY</th></tr><tr><td>Administration Assistant</td><td>3000</td><td>6000</td></tr><tr><td>Administration Vice President</td><td>15000</td><td>30000</td></tr></tbody></table>
