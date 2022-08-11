@@ -1,0 +1,1 @@
+<table><tbody><tr><th>FIRST_NAME</th><th>LAST_NAME</th><th>JOB_ID</th><th>SALARY + COMMISSION</th></tr><tr><td>David</td><td>Bernstein</td><td>SA_REP</td><td>989,58</td></tr><tr><td>David</td><td>Lee</td><td>SA_REP</td><td>623,33</td></tr><tr><td>David</td><td>Austin</td><td>IT_PROG</td><td>600</td></tr></tbody></table>
