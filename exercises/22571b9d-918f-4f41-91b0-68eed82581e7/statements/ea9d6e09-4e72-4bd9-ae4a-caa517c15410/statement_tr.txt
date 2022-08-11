@@ -1,0 +1,1 @@
+<h3>Egzersiz:</h3><p>Bu vesile, tablodaki tüm veriler <code>departments</code>.</p>
