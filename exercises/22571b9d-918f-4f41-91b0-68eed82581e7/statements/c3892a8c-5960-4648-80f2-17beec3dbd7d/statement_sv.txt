@@ -1,0 +1,1 @@
+<h3>Övning:</h3><p>Den visar vid detta tillfälle all data i tabellen <code>departments</code>.</p>
