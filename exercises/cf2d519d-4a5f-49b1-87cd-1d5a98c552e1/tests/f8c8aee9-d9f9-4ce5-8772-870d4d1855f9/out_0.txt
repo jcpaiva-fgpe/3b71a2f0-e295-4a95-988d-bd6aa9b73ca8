@@ -1,0 +1,1 @@
+<table><tbody><tr><th>FIRST_NAME</th><th>LAST_NAME</th><th>HIRE_DATE</th></tr><td>Girard</td><td>Geoni</td><td>2000-02-03 00:00:00</td></tr><tr><td>Hazel</td><td>Philtanker</td><td>2000-02-06 00:00:00</td></tr><tr><td>David</td><td>Lee</td><td>2000-02-23 00:00:00</td></tr></tbody></table>
