@@ -1,0 +1,1 @@
+<p>It shows the number of departments that exist in each of the countries that are in the region whose name is <code>'Europe'. </code></p><p>It orders the results alphabetically by the name of the country.</p>
