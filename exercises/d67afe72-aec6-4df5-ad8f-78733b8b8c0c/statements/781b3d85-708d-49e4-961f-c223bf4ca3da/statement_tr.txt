@@ -1,0 +1,1 @@
+<p>Gösterir <strong><em>Menü</em></strong> ()<code>STREET_ADDRESS</code>) ve <strong><em>şehirler</em></strong> ()<code>CITY</code>) tabloda saklanır <code>locations</code> düzeni <code>HR</code>.</p>
