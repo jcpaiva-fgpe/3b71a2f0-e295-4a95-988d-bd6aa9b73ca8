@@ -1,0 +1,1 @@
+<p>Mostra o <strong><em>endereços</em></strong> (<code>STREET_ADDRESS</code>) e <strong><em>cidades</em></strong> (<code>CITY</code>) armazenados na tabela <code>locations</code> do regime <code>HR</code>.</p>
