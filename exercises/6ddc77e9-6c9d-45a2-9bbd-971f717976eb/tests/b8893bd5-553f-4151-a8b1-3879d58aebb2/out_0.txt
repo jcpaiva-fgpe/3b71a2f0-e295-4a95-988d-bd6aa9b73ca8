@@ -1,0 +1,1 @@
+<table><tbody><tr><th>COUNTRY_ID</th><th>STREET_ADDRESS</th><th>CITY</th><th>DEPARTMENT_NAME</th></tr><tr><td>UK</td><td>8204 Arthur St</td><td>London</td><td>Human Resources</td></tr><tr><td>UK</td><td>Magdalen Centre, The Oxford Science Park</td><td>Oxford</td><td>Sales</td></tr><tr><td>UK</td><td>9702 Chester Road</td><td>Stretford</td><td></td></tr></tbody></table>
