@@ -1,0 +1,1 @@
+<p>Mostra o número de departamentos que existem em cada um dos países que estão na região cujo nome é <code>'Europe'. </code></p><p>Ele ordena os resultados alfabeticamente pelo nome do país.</p>
