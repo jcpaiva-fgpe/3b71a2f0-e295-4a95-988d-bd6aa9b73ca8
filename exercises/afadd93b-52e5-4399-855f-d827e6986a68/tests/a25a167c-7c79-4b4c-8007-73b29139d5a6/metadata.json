@@ -1,1 +1,1 @@
-{"id":"a25a167c-7c79-4b4c-8007-73b29139d5a6","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"a25a167c-7c79-4b4c-8007-73b29139d5a6","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"To create an alias you should use AS followed by \"alias text\"","weight":"0"}]}
