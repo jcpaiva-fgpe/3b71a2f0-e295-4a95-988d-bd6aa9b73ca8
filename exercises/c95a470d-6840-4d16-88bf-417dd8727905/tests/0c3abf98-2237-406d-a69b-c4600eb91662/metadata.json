@@ -1,1 +1,1 @@
-{"id":"0c3abf98-2237-406d-a69b-c4600eb91662","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"0c3abf98-2237-406d-a69b-c4600eb91662","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"This time, IN must be preceded by NOT.","weight":"0"}]}
