@@ -1,1 +1,1 @@
-{"id":"0f577aeb-d68b-444d-91db-3536bc283072","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"0f577aeb-d68b-444d-91db-3536bc283072","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"Use _ and % as wildcars.","weight":"0"}]}
