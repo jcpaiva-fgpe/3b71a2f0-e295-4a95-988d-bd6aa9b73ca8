@@ -1,1 +1,1 @@
-{"id":"99d090a6-eda1-4518-bc93-64d9d960dfa1","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"99d090a6-eda1-4518-bc93-64d9d960dfa1","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"Have you use WHERE clause?","weight":"0"}]}
