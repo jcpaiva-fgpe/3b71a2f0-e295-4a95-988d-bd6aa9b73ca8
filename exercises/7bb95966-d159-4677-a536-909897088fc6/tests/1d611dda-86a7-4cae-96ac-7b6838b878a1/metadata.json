@@ -1,1 +1,1 @@
-{"id":"1d611dda-86a7-4cae-96ac-7b6838b878a1","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"1d611dda-86a7-4cae-96ac-7b6838b878a1","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"If you need validate both comparisons as TRUE, you'll need AND","weight":"0"}]}
