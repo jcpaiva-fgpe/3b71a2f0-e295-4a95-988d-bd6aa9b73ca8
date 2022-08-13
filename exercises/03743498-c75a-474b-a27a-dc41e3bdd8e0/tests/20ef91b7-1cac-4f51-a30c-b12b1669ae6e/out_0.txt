@@ -1,1 +1,1 @@
-<table><tbody><tr><th>FIRST_NAME</th><th>LAST_NAME</th><th>MANAGER_ID</th><th>DEPARTMENT_ID</th></tr><tr><td>Kimberely</td><td>Grant</td><td>149</td><td></td></tr></tbody></table>
+<table><tbody><tr><th>first_name</th><th>last_name</th><th>manager_id</th><th>department_id</th></tr><tr><td>Kimberely</td><td>Grant</td><td>149</td><td></td></tr></tbody></table>
