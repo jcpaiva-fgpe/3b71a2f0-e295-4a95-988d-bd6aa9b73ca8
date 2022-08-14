@@ -1,1 +1,1 @@
-{"id":"d9eb5fa1-76cb-4cc2-bb02-48c7a99028e0","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"d9eb5fa1-76cb-4cc2-bb02-48c7a99028e0","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"You have to use FLOOR() function.","weight":"0"}]}
