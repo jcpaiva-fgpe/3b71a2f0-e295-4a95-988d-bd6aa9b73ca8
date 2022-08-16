@@ -1,1 +1,1 @@
-{"id":"02f83606-71c7-4c7f-be79-0cf2daae2f5d","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"02f83606-71c7-4c7f-be79-0cf2daae2f5d","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"You should use COUNT Aggregate Function.","weight":"0"}]}
