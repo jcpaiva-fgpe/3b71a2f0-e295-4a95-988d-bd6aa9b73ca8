@@ -1,1 +1,1 @@
-{"id":"59b014ae-c212-4ba2-8039-87b9ae00ac15","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"59b014ae-c212-4ba2-8039-87b9ae00ac15","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"You must use AVG Aggregate Function.","weight":"0"}]}
