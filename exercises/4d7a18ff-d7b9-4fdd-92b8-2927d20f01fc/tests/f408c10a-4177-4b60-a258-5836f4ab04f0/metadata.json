@@ -1,1 +1,1 @@
-{"id":"f408c10a-4177-4b60-a258-5836f4ab04f0","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"f408c10a-4177-4b60-a258-5836f4ab04f0","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"GROUP BY years and months.","weight":"0"}]}
