@@ -1,1 +1,1 @@
-<table><tbody><tr><th>COST OF DEVELOPERS</th><th>10% OVERCOST</th></tr><tr><td>2400.00</td><td>240.00</td></tr></tbody></table>
+<table><tbody><tr><th>COST OF DEVELOPERS</th><th>10pc OVERCOST</th></tr><tr><td>2400.00</td><td>240.00</td></tr></tbody></table>
