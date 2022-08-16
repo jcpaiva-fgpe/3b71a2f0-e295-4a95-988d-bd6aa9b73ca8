@@ -1,1 +1,1 @@
-{"id":"820d112d-94bd-4d2c-b9ed-4c0123155507","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"820d112d-94bd-4d2c-b9ed-4c0123155507","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"Use WHERE clause before GROUP BY clause.","weight":"0"}]}
