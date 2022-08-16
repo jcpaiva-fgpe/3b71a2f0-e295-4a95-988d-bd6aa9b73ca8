@@ -1,1 +1,1 @@
-{"id":"1acb3d89-6ea6-4ab7-a057-1910ff3c2edc","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"1acb3d89-6ea6-4ab7-a057-1910ff3c2edc","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"|| is the CONCAT operator.","weight":"0"}]}
