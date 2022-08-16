@@ -1,1 +1,1 @@
-{"id":"cde2f7b3-2237-49a7-9beb-df482f0f19c1","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"cde2f7b3-2237-49a7-9beb-df482f0f19c1","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"You must use SUBSTR and POSITION functions.","weight":"0"}]}
