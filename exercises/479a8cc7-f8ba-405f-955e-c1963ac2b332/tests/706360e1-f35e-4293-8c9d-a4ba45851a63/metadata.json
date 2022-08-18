@@ -1,1 +1,1 @@
-{"id":"706360e1-f35e-4293-8c9d-a4ba45851a63","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"706360e1-f35e-4293-8c9d-a4ba45851a63","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"You must link employees and departments table knowing that EMPLOEE_ID in employees table must be the same that MANAGER_ID value in departments table.","weight":"0"}]}
