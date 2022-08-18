@@ -1,1 +1,1 @@
-{"id":"3b8388c4-69fd-4bda-ac3f-d9c0dccb175a","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"3b8388c4-69fd-4bda-ac3f-d9c0dccb175a","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"Only the department which name is 'Marketing'.","weight":"0"}]}
