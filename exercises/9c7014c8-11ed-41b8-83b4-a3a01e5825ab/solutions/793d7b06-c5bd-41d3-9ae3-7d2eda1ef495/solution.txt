@@ -4,4 +4,5 @@ WHERE SALARY > 2 * (
     SELECT AVG(SALARY)
     FROM employees
 )
+
 ORDER BY SALARY DESC
