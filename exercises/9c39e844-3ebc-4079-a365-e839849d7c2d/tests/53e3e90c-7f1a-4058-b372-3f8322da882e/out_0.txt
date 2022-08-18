@@ -1,1 +1,1 @@
-<table><tbody><tr><th>DEPARTMENT_NAME</th><th>COUNTRY_ID</th></tr><tr><td>Marketing</td><td>CA</td></tr><tr><td>Public Relations</td><td>DE</td></tr><tr><td>Sales</td><td>UK</td></tr></tbody></table>
+<table><tbody><tr><th>department_name</th><th>country_id</th></tr><tr><td>Marketing</td><td>CA</td></tr><tr><td>Public Relations</td><td>DE</td></tr><tr><td>Sales</td><td>UK</td></tr></tbody></table>
