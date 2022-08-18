@@ -1,1 +1,1 @@
-{"id":"c3b96a7c-9f9c-45ec-9912-64bf33b4ef51","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"c3b96a7c-9f9c-45ec-9912-64bf33b4ef51","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"You must locate AVERAGE of SALARY as a subquery of main query. Use brackets to enclose the subquery.","weight":"0"}]}
