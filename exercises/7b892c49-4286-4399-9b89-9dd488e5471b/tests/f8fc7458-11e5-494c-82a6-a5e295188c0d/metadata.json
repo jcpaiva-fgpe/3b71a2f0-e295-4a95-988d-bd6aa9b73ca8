@@ -1,1 +1,1 @@
-{"id":"f8fc7458-11e5-494c-82a6-a5e295188c0d","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"f8fc7458-11e5-494c-82a6-a5e295188c0d","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"You must use employees table twice in the JOIN clause. So you need use an alias each occurrence of employees table.","weight":"0"}]}
