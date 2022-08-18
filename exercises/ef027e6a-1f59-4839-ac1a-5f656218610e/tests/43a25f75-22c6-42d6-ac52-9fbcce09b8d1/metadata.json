@@ -1,1 +1,1 @@
-{"id":"43a25f75-22c6-42d6-ac52-9fbcce09b8d1","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"43a25f75-22c6-42d6-ac52-9fbcce09b8d1","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"In this query, you must use countries, regions, locations and departments tables.","weight":"0"}]}
