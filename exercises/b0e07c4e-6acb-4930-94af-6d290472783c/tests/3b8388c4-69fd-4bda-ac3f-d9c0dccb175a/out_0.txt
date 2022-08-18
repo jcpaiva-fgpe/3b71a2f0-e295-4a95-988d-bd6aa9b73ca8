@@ -1,1 +1,1 @@
-<table><tbody><tr><th>FIRST_NAME</th><th>LAST_NAME</th></tr><tr><td>Pat</td><td>Fay</td></tr><tr><td>Michael</td><td>Hartstein</td></tr></tbody></table>
+<table><tbody><tr><th>first_name</th><th>last_name</th></tr><tr><td>Pat</td><td>Fay</td></tr><tr><td>Michael</td><td>Hartstein</td></tr></tbody></table>
