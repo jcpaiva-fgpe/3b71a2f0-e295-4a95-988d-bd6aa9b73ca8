@@ -1,1 +1,1 @@
-{"id":"5ef9b921-e2c1-4010-a4c4-97823ed65550","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"5ef9b921-e2c1-4010-a4c4-97823ed65550","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"... JOIN (employees WHERE SALARY = MIN_SALARY).","weight":"0"}]}
