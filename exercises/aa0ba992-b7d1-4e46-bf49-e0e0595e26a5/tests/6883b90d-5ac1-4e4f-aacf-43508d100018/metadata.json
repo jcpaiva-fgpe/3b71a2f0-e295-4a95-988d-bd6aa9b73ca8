@@ -1,1 +1,1 @@
-{"id":"6883b90d-5ac1-4e4f-aacf-43508d100018","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"6883b90d-5ac1-4e4f-aacf-43508d100018","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"You should use locations and countries tablesin NATURAL JOIN clause.","weight":"0"}]}
