@@ -2,3 +2,4 @@ SELECT *
 FROM employees, departments
 WHERE employees.DEPARTMENT_ID = departments.DEPARTMENT_ID
 ORDER BY LAST_NAME
+FETCH FIRST 10 ROWS ONLY
