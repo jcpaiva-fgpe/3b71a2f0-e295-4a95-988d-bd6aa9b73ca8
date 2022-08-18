@@ -1,1 +1,1 @@
-{"id":"a2b8f2ea-0981-4c13-a97a-c6f4ff9f16bc","arguments":[],"weight":5,"visible":true,"input":"in_0.txt","output":"out_0.txt","timeout":0,"feedback":{}}
+{"id":"a2b8f2ea-0981-4c13-a97a-c6f4ff9f16bc","arguments":[],"weight":"5","visible":"true","input":"in_0.txt","output":"out_0.txt","timeout":"-1","feedback":[{"message":"DEPARTMENT_ID value must be the same in employees and departments tables.","weight":"0"}]}
