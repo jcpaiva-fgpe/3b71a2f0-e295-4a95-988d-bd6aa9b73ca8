@@ -1,1 +1,1 @@
-<table><tbody><tr><th>DEPARTMENT_NAME</th></tr><tr><td>Sales</td></tr></tbody></table>
+<table><tbody><tr><th>department_name</th></tr><tr><td>Sales</td></tr></tbody></table>
