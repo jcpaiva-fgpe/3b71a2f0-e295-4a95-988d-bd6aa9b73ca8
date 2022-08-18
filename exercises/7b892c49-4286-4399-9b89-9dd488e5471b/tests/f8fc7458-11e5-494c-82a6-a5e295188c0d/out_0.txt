@@ -1,1 +1,1 @@
-<table><tbody><tr><th>LAST_NAME WELL_PAID</th><th>COMMISSION WELL_PAID</th><th>LAST_NAME BAD_PAID</th><th>COMMISSION BAD_PAID</th></tr><tr><td>Russell</td><td>,4</td><td>Zlotkey</td><td>,2</td></tr></tbody></table>
+<table><tbody><tr><th>LAST_NAME WELL_PAID</th><th>COMMISSION WELL_PAID</th><th>LAST_NAME BAD_PAID</th><th>COMMISSION BAD_PAID</th></tr><tr><td>Russell</td><td>0.40</td><td>Zlotkey</td><td>0.20</td></tr></tbody></table>
