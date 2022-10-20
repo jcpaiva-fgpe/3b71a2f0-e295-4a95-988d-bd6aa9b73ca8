@@ -1,1 +1,11 @@
-<table><tbody><tr><th>country_name</th><th>N. DEPARTMENTS</th></tr><tr><td>Belgium</td><td></td></tr><tr><td>Denmark</td><td></td></tr><tr><td>France</td><td></td></tr><tr><td>Germany</td><td></td></tr><tr><td>Italy</td><td></td></tr><tr><td>Netherlands</td><td></td></tr><tr><td>Switzerland</td><td></td></tr><tr><td>United Kingdom</td><td></td></tr></tbody></table>
+  country_name  | N. DEPARTMENTS 
+----------------+----------------
+ Belgium        |              0
+ Denmark        |              0
+ France         |              0
+ Germany        |              1
+ Italy          |              0
+ Netherlands    |              0
+ Switzerland    |              0
+ United Kingdom |              2
+(8 filas)
