@@ -1,7 +1,16 @@
-SELECT FIRST_NAME, LAST_NAME, DEPARTMENT_NAME
-FROM EMPLOYEES JOIN DEPARTMENTS ON(EMPLOYEES.EMPLOYEE_ID = DEPARTMENTS.MANAGER_ID) JOIN (
-    SELECT DISTINCT JOB_TITLE, DEPARTMENT_ID
-    FROM EMPLOYEES JOIN JOBS USING(JOB_ID)
-    WHERE SALARY = MIN_SALARY
-) MINIMAMENTEPAGADOS ON (DEPARTMENTS.DEPARTMENT_ID = MINIMAMENTEPAGADOS.DEPARTMENT_ID)
-ORDER BY DEPARTMENT_NAME
+WITH RECURSIVE subordinates AS (
+	select employee_id, emp.manager_id, lpad(first_name, 20, '') as first_name, last_name, 1 as "level"
+	FROM
+		employees emp join departments dep on (emp.department_id = dep.department_id )
+	WHERE
+		dep.department_name like 'Executive%'
+	UNION
+		SELECT e.employee_id, e.manager_id, lpad( e.first_name, 10 * level, '-') , e.last_name, level + 1 as "level"
+		FROM
+			employees e
+		INNER JOIN subordinates s ON s.employee_id = e.manager_id
+) SELECT
+	*
+FROM
+	subordinates
+ORDER BY level, manager_id;
