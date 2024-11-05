@@ -1,11 +1,10 @@
-  country_name  | N. DEPARTMENTS 
-----------------+----------------
- Belgium        |              0
- Denmark        |              0
- France         |              0
- Germany        |              1
- Italy          |              0
- Netherlands    |              0
- Switzerland    |              0
- United Kingdom |              2
-(8 filas)
+country_name  |N. DEPARTMENTS|
+--------------+--------------+
+Belgium       |             0|
+Denmark       |             0|
+France        |             0|
+Germany       |             1|
+Italy         |             0|
+Netherlands   |             0|
+Switzerland   |             0|
+United Kingdom|             2|
