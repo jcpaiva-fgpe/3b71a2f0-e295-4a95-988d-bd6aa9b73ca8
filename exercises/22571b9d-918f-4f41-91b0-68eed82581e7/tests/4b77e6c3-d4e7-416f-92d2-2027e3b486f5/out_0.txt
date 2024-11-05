@@ -1,1 +1,30 @@
-<table><tbody><tr><th>department_id</th><th>department_name</th><th>manager_id</th><th>location_id</th></tr><tr><td>10</td><td>Administration</td><td>200</td><td>1700</td></tr><tr><td>20</td><td>Marketing</td><td>201</td><td>1800</td></tr><tr><td>30</td><td>Purchasing</td><td>114</td><td>1700</td></tr><tr><td>40</td><td>Human Resources</td><td>203</td><td>2400</td></tr><tr><td>50</td><td>Shipping</td><td>121</td><td>1500</td></tr><tr><td>60</td><td>IT</td><td>103</td><td>1400</td></tr><tr><td>70</td><td>Public Relations</td><td>204</td><td>2700</td></tr><tr><td>80</td><td>Sales</td><td>145</td><td>2500</td></tr><tr><td>90</td><td>Executive</td><td>100</td><td>1700</td></tr><tr><td>100</td><td>Finance</td><td>108</td><td>1700</td></tr><tr><td>110</td><td>Accounting</td><td>205</td><td>1700</td></tr><tr><td>120</td><td>Treasury</td><td></td><td>1700</td></tr><tr><td>130</td><td>Corporate Tax</td><td></td><td>1700</td></tr><tr><td>140</td><td>Control And Credit</td><td></td><td>1700</td></tr><tr><td>150</td><td>Shareholder Services</td><td></td><td>1700</td></tr><tr><td>160</td><td>Benefits</td><td></td><td>1700</td></tr><tr><td>170</td><td>Manufacturing</td><td></td><td>1700</td></tr><tr><td>180</td><td>Construction</td><td></td><td>1700</td></tr><tr><td>190</td><td>Contracting</td><td></td><td>1700</td></tr><tr><td>200</td><td>Operations</td><td></td><td>1700</td></tr><tr><td>210</td><td>IT Support</td><td></td><td>1700</td></tr><tr><td>220</td><td>NOC</td><td></td><td>1700</td></tr><tr><td>230</td><td>IT Helpdesk</td><td></td><td>1700</td></tr><tr><td>240</td><td>Government Sales</td><td></td><td>1700</td></tr><tr><td>250</td><td>Retail Sales</td><td></td><td>1700</td></tr><tr><td>260</td><td>Recruiting</td><td></td><td>1700</td></tr><tr><td>270</td><td>Payroll</td><td></td><td>1700</td></tr></tbody></table>
+department_id|department_name     |manager_id|location_id|
+-------------+--------------------+----------+-----------+
+           10|Administration      |       200|       1700|
+           20|Marketing           |       201|       1800|
+           30|Purchasing          |       114|       1700|
+           40|Human Resources     |       203|       2400|
+           50|Shipping            |       121|       1500|
+           60|IT                  |       103|       1400|
+           70|Public Relations    |       204|       2700|
+           80|Sales               |       145|       2500|
+           90|Executive           |       100|       1700|
+          100|Finance             |       108|       1700|
+          110|Accounting          |       205|       1700|
+          120|Treasury            |          |       1700|
+          130|Corporate Tax       |          |       1700|
+          140|Control And Credit  |          |       1700|
+          150|Shareholder Services|          |       1700|
+          160|Benefits            |          |       1700|
+          170|Manufacturing       |          |       1700|
+          180|Construction        |          |       1700|
+          190|Contracting         |          |       1700|
+          200|Operations          |          |       1700|
+          210|IT Support          |          |       1700|
+          220|NOC                 |          |       1700|
+          230|IT Helpdesk         |          |       1700|
+          240|Government Sales    |          |       1700|
+          250|Retail Sales        |          |       1700|
+          260|Recruiting          |          |       1700|
+          270|Payroll             |          |       1700|
+          
