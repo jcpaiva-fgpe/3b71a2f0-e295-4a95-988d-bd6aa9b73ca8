@@ -1,1 +1,5 @@
-<table><tbody><tr><th>first_name</th><th>last_name</th><th>job_id</th><th>SALARY with COMMISSION</th></tr><tr><td>David</td><td>Bernstein</td><td>SA_REP</td><td>989.58</td></tr><tr><td>David</td><td>Lee</td><td>SA_REP</td><td>623.33</td></tr><tr><td>David</td><td>Austin</td><td>IT_PROG</td><td>600.00</td></tr></tbody></table>
+first_name|last_name|job_id |SALARY with COMMISSION|
+----------+---------+-------+----------------------+
+David     |Bernstein|SA_REP |                989.58|
+David     |Lee      |SA_REP |                623.33|
+David     |Austin   |IT_PROG|                600.00|
