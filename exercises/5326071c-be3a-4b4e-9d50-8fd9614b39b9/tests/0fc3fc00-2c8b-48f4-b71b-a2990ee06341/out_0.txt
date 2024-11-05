@@ -1,1 +1,22 @@
-<table><tbody><tr><th>job_title</th><th>first_name</th><th>last_name</th></tr><tr><td>Accountant</td><td>Daniel</td><td>Faviet</td></tr><tr><td>Accounting Manager</td><td>Shelley</td><td>Higgins</td></tr><tr><td>Administration Assistant</td><td>Jennifer</td><td>Whalen</td></tr><tr><td>Administration Vice President</td><td>Lex</td><td>De Haan</td></tr><tr><td>Administration Vice President</td><td>Neena</td><td>Kochhar</td></tr><tr><td>Finance Manager</td><td>Nancy</td><td>Greenberg</td></tr><tr><td>Human Resources Representative</td><td>Susan</td><td>Mavris</td></tr><tr><td>Marketing Manager</td><td>Michael</td><td>Hartstein</td></tr><tr><td>Marketing Representative</td><td>Pat</td><td>Fay</td></tr><tr><td>President</td><td>Steven</td><td>King</td></tr><tr><td>Programmer</td><td>Alexander</td><td>Hunold</td></tr><tr><td>Public Accountant</td><td>William</td><td>Gietz</td></tr><tr><td>Public Relations Representative</td><td>Hermann</td><td>Baer</td></tr><tr><td>Purchasing Clerk</td><td>Alexander</td><td>Khoo</td></tr><tr><td>Purchasing Manager</td><td>Den</td><td>Raphaely</td></tr><tr><td>Sales Manager</td><td>John</td><td>Russell</td></tr><tr><td>Sales Representative</td><td>Lisa</td><td>Ozer</td></tr><tr><td>Shipping Clerk</td><td>Nandita</td><td>Sarchand</td></tr><tr><td>Stock Clerk</td><td>Renske</td><td>Ladwig</td></tr><tr><td>Stock Manager</td><td>Adam</td><td>Fripp</td></tr></tbody></table>
+job_title                      |first_name|last_name|
+-------------------------------+----------+---------+
+Accountant                     |Daniel    |Faviet   |
+Accounting Manager             |Shelley   |Higgins  |
+Administration Assistant       |Jennifer  |Whalen   |
+Administration Vice President  |Lex       |De Haan  |
+Administration Vice President  |Neena     |Kochhar  |
+Finance Manager                |Nancy     |Greenberg|
+Human Resources Representative |Susan     |Mavris   |
+Marketing Manager              |Michael   |Hartstein|
+Marketing Representative       |Pat       |Fay      |
+President                      |Steven    |King     |
+Programmer                     |Alexander |Hunold   |
+Public Accountant              |William   |Gietz    |
+Public Relations Representative|Hermann   |Baer     |
+Purchasing Clerk               |Alexander |Khoo     |
+Purchasing Manager             |Den       |Raphaely |
+Sales Manager                  |John      |Russell  |
+Sales Representative           |Lisa      |Ozer     |
+Shipping Clerk                 |Nandita   |Sarchand |
+Stock Clerk                    |Renske    |Ladwig   |
+Stock Manager                  |Adam      |Fripp    |
