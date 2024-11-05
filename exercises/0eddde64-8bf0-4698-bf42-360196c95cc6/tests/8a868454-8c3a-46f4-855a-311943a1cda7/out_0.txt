@@ -1,1 +1,4 @@
-<table><tbody><tr><th>YEAR</th><th>MONTH</th><th>count</th></tr><tr><td>1998</td><td>3</td><td>5</td></tr><tr><td>2000</td><td>1</td><td>4</td></tr></tbody></table>
+YEAR|MONTH|count|
+----+-----+-----+
+1998|    3|    5|
+2000|    1|    4|
