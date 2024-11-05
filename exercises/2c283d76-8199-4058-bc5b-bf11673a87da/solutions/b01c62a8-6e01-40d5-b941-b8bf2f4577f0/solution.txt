@@ -1,1 +1,1 @@
-SELECT STREET_ADDRESS AS "Addresses", CITY AS "Cities" FROM locations
+SELECT STREET_ADDRESS AS "Addresses", CITY AS "Cities" FROM locations;
