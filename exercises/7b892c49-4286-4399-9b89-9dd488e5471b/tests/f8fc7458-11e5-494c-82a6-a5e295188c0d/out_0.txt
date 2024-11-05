@@ -1,1 +1,3 @@
-<table><tbody><tr><th>LAST_NAME WELL_PAID</th><th>COMMISSION WELL_PAID</th><th>LAST_NAME BAD_PAID</th><th>COMMISSION BAD_PAID</th></tr><tr><td>Russell</td><td>0.40</td><td>Zlotkey</td><td>0.20</td></tr></tbody></table>
+LAST_NAME WELL_PAID|COMMISSION WELL_PAID|LAST_NAME BAD_PAID|COMMISSION BAD_PAID|
+-------------------+--------------------+------------------+-------------------+
+Russell            |                0.40|Zlotkey           |               0.20|
