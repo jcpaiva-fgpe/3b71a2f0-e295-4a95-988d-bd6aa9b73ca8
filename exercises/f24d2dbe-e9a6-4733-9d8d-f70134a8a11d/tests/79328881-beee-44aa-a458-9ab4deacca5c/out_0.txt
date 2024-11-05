@@ -1,1 +1,6 @@
-<table><tbody><tr><th>first_name</th><th>last_name</th><th>hire_date</th></tr><tr><td>Steven</td><td>King</td><td>Wed Jun 17 1987 00:00:00 GMT+0000 (Coordinated Universal Time)</td></tr><tr><td>Jennifer</td><td>Whalen</td><td>Thu Sep 17 1987 00:00:00 GMT+0000 (Coordinated Universal Time)</td></tr><tr><td>Neena</td><td>Kochhar</td><td>Thu Sep 21 1989 00:00:00 GMT+0000 (Coordinated Universal Time)</td></tr><tr><td>Alexander</td><td>Hunold</td><td>Wed Jan 03 1990 00:00:00 GMT+0000 (Coordinated Universal Time)</td></tr></tbody></table>
+first_name|last_name|hire_date              |
+----------+---------+-----------------------+
+Steven    |King     |1987-06-17 00:00:00.000|
+Jennifer  |Whalen   |1987-09-17 00:00:00.000|
+Neena     |Kochhar  |1989-09-21 00:00:00.000|
+Alexander |Hunold   |1990-01-03 00:00:00.000|
