@@ -1,1 +1,4 @@
-<table><tbody><tr><th>department_name</th></tr><tr><td>Accounting</td></tr><tr><td>Shipping</td></tr></tbody></table>
+department_name|
+---------------+
+Accounting     |
+Shipping       |
