@@ -1,1 +1,5 @@
-<table><tbody><tr><th>country_id</th><th>street_address</th><th>city</th><th>department_name</th></tr><tr><td>UK</td><td>8204 Arthur St</td><td>London</td><td>Human Resources</td></tr><tr><td>UK</td><td>Magdalen Centre, The Oxford Science Park</td><td>Oxford</td><td>Sales</td></tr><tr><td>UK</td><td>9702 Chester Road</td><td>Stretford</td><td></td></tr></tbody></table>
+country_id|street_address                          |city     |department_name|
+----------+----------------------------------------+---------+---------------+
+UK        |8204 Arthur St                          |London   |Human Resources|
+UK        |Magdalen Centre, The Oxford Science Park|Oxford   |Sales          |
+UK        |9702 Chester Road                       |Stretford|               |
