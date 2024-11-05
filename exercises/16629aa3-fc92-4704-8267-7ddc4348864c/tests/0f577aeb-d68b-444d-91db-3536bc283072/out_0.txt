@@ -1,1 +1,14 @@
-<table><tbody><tr><th>first_name</th><th>last_name</th><th>job_id</th></tr><tr><td>Gerald</td><td>Cambrault</td><td>SA_MAN</td></tr><tr><td>Alberto</td><td>Errazuriz</td><td>SA_MAN</td></tr><tr><td>Adam</td><td>Fripp</td><td>ST_MAN</td></tr><tr><td>Payam</td><td>Kaufling</td><td>ST_MAN</td></tr><tr><td>Kevin</td><td>Mourgos</td><td>ST_MAN</td></tr><tr><td>Karen</td><td>Partners</td><td>SA_MAN</td></tr><tr><td>Joshua</td><td>Patel</td><td>ST_CLERK</td></tr><tr><td>John</td><td>Russell</td><td>SA_MAN</td></tr><tr><td>Jose Manuel</td><td>Urman</td><td>FI_ACCOUNT</td></tr><tr><td>Shanta</td><td>Vollman</td><td>ST_MAN</td></tr><tr><td>Matthew</td><td>Weiss</td><td>ST_MAN</td></tr><tr><td>Eleni</td><td>Zlotkey</td><td>SA_MAN</td></tr></tbody></table>
+first_name |last_name|job_id    |
+-----------+---------+----------+
+Gerald     |Cambrault|SA_MAN    |
+Alberto    |Errazuriz|SA_MAN    |
+Adam       |Fripp    |ST_MAN    |
+Payam      |Kaufling |ST_MAN    |
+Kevin      |Mourgos  |ST_MAN    |
+Karen      |Partners |SA_MAN    |
+Joshua     |Patel    |ST_CLERK  |
+John       |Russell  |SA_MAN    |
+Jose Manuel|Urman    |FI_ACCOUNT|
+Shanta     |Vollman  |ST_MAN    |
+Matthew    |Weiss    |ST_MAN    |
+Eleni      |Zlotkey  |SA_MAN    |
