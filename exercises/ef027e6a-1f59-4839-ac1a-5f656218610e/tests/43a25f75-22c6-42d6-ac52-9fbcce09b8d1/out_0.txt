@@ -1,1 +1,5 @@
-<table><tbody><tr><th>region_name</th><th>department_name</th></tr><tr><td>Europe</td><td>Human Resources</td></tr><tr><td>Europe</td><td>Public Relations</td></tr><tr><td>Europe</td><td>Sales</td></tr></tbody></table>
+region_name|department_name |
+-----------+----------------+
+Europe     |Human Resources |
+Europe     |Public Relations|
+Europe     |Sales           |
