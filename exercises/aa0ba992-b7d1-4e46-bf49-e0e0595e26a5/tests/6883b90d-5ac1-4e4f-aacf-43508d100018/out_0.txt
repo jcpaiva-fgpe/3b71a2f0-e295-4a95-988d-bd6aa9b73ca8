@@ -1,1 +1,5 @@
-<table><tbody><tr><th>street_address</th><th>city</th><th>country_name</th></tr><tr><td>8204 Arthur St</td><td>London</td><td>United Kingdom</td></tr><tr><td>Magdalen Centre, The Oxford Science Park</td><td>Oxford</td><td>United Kingdom</td></tr><tr><td>9702 Chester Road</td><td>Stretford</td><td>United Kingdom</td></tr></tbody></table>
+street_address                          |city     |country_name  |
+----------------------------------------+---------+--------------+
+8204 Arthur St                          |London   |United Kingdom|
+Magdalen Centre, The Oxford Science Park|Oxford   |United Kingdom|
+9702 Chester Road                       |Stretford|United Kingdom|
