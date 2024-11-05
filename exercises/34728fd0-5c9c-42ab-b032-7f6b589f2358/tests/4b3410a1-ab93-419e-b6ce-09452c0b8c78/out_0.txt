@@ -1,1 +1,3 @@
-<table><tbody><tr><th>first_name</th><th>last_name</th><th>department_name</th></tr><tr><td>Steven</td><td>Markle</td><td>Shipping</td></tr></tbody></table>
+first_name|last_name|department_name|
+----------+---------+---------------+
+Steven    |Markle   |Shipping       |
