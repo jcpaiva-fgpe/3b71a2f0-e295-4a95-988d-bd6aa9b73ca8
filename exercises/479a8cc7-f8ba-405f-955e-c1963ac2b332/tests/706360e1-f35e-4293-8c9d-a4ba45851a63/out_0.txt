@@ -1,1 +1,13 @@
-<table><tbody><tr><th>department_name</th><th>first_name</th><th>last_name</th></tr><tr><td>Accounting</td><td>Shelley</td><td>Higgins</td></tr><tr><td>Administration</td><td>Jennifer</td><td>Whalen</td></tr><tr><td>Executive</td><td>Steven</td><td>King</td></tr><tr><td>Finance</td><td>Nancy</td><td>Greenberg</td></tr><tr><td>Human Resources</td><td>Susan</td><td>Mavris</td></tr><tr><td>IT</td><td>Alexander</td><td>Hunold</td></tr><tr><td>Marketing</td><td>Michael</td><td>Hartstein</td></tr><tr><td>Public Relations</td><td>Hermann</td><td>Baer</td></tr><tr><td>Purchasing</td><td>Den</td><td>Raphaely</td></tr><tr><td>Sales</td><td>John</td><td>Russell</td></tr><tr><td>Shipping</td><td>Adam</td><td>Fripp</td></tr></tbody></table>
+department_name |first_name|last_name|
+----------------+----------+---------+
+Accounting      |Shelley   |Higgins  |
+Administration  |Jennifer  |Whalen   |
+Executive       |Steven    |King     |
+Finance         |Nancy     |Greenberg|
+Human Resources |Susan     |Mavris   |
+IT              |Alexander |Hunold   |
+Marketing       |Michael   |Hartstein|
+Public Relations|Hermann   |Baer     |
+Purchasing      |Den       |Raphaely |
+Sales           |John      |Russell  |
+Shipping        |Adam      |Fripp    |
