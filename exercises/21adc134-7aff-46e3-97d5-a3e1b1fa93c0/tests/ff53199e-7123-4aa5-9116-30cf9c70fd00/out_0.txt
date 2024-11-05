@@ -1,1 +1,12 @@
-<table><tbody><tr><th>first_name</th><th>last_name</th><th>JOB</th></tr><tr><td>David</td><td>Austin</td><td>Programmer</td></tr><tr><td>Sarah</td><td>Bell</td><td>SH_CLERK</td></tr><tr><td>Alexis</td><td>Bull</td><td>SH_CLERK</td></tr><tr><td>Bruce</td><td>Ernst</td><td>Programmer</td></tr><tr><td>Pat</td><td>Fay</td><td>MK_REP</td></tr><tr><td>Diana</td><td>Lorentz</td><td>Programmer</td></tr><tr><td>Kevin</td><td>Mourgos</td><td>ST_MAN</td></tr><tr><td>Valli</td><td>Pataballa</td><td>Programmer</td></tr><tr><td>Nandita</td><td>Sarchand</td><td>SH_CLERK</td></tr><tr><td>Jennifer</td><td>Whalen</td><td>AD_ASST</td></tr></tbody></table>
+first_name|last_name|JOB       |
+----------+---------+----------+
+David     |Austin   |Programmer|
+Sarah     |Bell     |SH_CLERK  |
+Alexis    |Bull     |SH_CLERK  |
+Bruce     |Ernst    |Programmer|
+Pat       |Fay      |MK_REP    |
+Diana     |Lorentz  |Programmer|
+Kevin     |Mourgos  |ST_MAN    |
+Valli     |Pataballa|Programmer|
+Nandita   |Sarchand |SH_CLERK  |
+Jennifer  |Whalen   |AD_ASST   |
