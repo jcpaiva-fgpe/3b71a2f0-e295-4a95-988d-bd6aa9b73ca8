@@ -1,1 +1,3 @@
-<table><tbody><tr><th>first_name</th><th>last_name</th><th>job_id</th><th>salary</th></tr><tr><td>Alexander</td><td>Hunold</td><td>IT_PROG</td><td>9000.00</td></tr></tbody></table>
+first_name|last_name|job_id |salary |
+----------+---------+-------+-------+
+Alexander |Hunold   |IT_PROG|9000.00|
