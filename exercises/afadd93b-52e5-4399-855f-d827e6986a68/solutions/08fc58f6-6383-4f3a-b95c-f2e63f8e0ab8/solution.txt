@@ -1,4 +1,4 @@
 SELECT FIRST_NAME, SALARY AS "current", SALARY * 1.1 AS "increased"
 FROM employees
 WHERE JOB_ID = 'IT_PROG'
-ORDER BY "increased"
+ORDER BY "increased";
