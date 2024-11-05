@@ -1,1 +1,7 @@
-<table><tbody><tr><th>first_name</th><th>current</th><th>increased</th></tr><tr><td>Diana</td><td>4200.00</td><td>4620.000</td></tr><tr><td>David</td><td>4800.00</td><td>5280.000</td></tr><tr><td>Valli</td><td>4800.00</td><td>5280.000</td></tr><tr><td>Bruce</td><td>6000.00</td><td>6600.000</td></tr><tr><td>Alexander</td><td>9000.00</td><td>9900.000</td></tr></tbody></table>
+first_name|current|increased|
+----------+-------+---------+
+Diana     |4200.00| 4620.000|
+David     |4800.00| 5280.000|
+Valli     |4800.00| 5280.000|
+Bruce     |6000.00| 6600.000|
+Alexander |9000.00| 9900.000|
