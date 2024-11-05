@@ -1,1 +1,13 @@
-<table><tbody><tr><th>first_name</th><th>last_name</th><th>hire_date</th></tr><tr><td>Charles</td><td>Johnson</td><td>Tue Jan 04 2000 00:00:00 GMT+0000 (Coordinated Universal Time)</td></tr><tr><td>Douglas</td><td>Grant</td><td>Thu Jan 13 2000 00:00:00 GMT+0000 (Coordinated Universal Time)</td></tr><tr><td>Mattea</td><td>Marvins</td><td>Mon Jan 24 2000 00:00:00 GMT+0000 (Coordinated Universal Time)</td></tr><tr><td>Eleni</td><td>Zlotkey</td><td>Sat Jan 29 2000 00:00:00 GMT+0000 (Coordinated Universal Time)</td></tr><tr><td>Girard</td><td>Geoni</td><td>Thu Feb 03 2000 00:00:00 GMT+0000 (Coordinated Universal Time)</td></tr><tr><td>Hazel</td><td>Philtanker</td><td>Sun Feb 06 2000 00:00:00 GMT+0000 (Coordinated Universal Time)</td></tr><tr><td>David</td><td>Lee</td><td>Wed Feb 23 2000 00:00:00 GMT+0000 (Coordinated Universal Time)</td></tr><tr><td>Steven</td><td>Markle</td><td>Wed Mar 08 2000 00:00:00 GMT+0000 (Coordinated Universal Time)</td></tr><tr><td>Sundar</td><td>Ande</td><td>Fri Mar 24 2000 00:00:00 GMT+0000 (Coordinated Universal Time)</td></tr><tr><td>Amit</td><td>Banda</td><td>Fri Apr 21 2000 00:00:00 GMT+0000 (Coordinated Universal Time)</td></tr><tr><td>Sundita</td><td>Kumar</td><td>Fri Apr 21 2000 00:00:00 GMT+0000 (Coordinated Universal Time)</td></tr></tbody></table>
+first_name|last_name |hire_date              |
+----------+----------+-----------------------+
+Charles   |Johnson   |2000-01-04 00:00:00.000|
+Douglas   |Grant     |2000-01-13 00:00:00.000|
+Mattea    |Marvins   |2000-01-24 00:00:00.000|
+Eleni     |Zlotkey   |2000-01-29 00:00:00.000|
+Girard    |Geoni     |2000-02-03 00:00:00.000|
+Hazel     |Philtanker|2000-02-06 00:00:00.000|
+David     |Lee       |2000-02-23 00:00:00.000|
+Steven    |Markle    |2000-03-08 00:00:00.000|
+Sundar    |Ande      |2000-03-24 00:00:00.000|
+Amit      |Banda     |2000-04-21 00:00:00.000|
+Sundita   |Kumar     |2000-04-21 00:00:00.000|
