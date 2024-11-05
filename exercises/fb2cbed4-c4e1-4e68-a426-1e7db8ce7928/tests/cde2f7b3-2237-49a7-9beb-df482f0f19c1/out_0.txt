@@ -1,1 +1,4 @@
-<table><tbody><tr><th>street_address</th><th>NO NUMBER</th></tr><tr><td>1297 Via Cola di Rie</td><td>Via Cola di Rie</td></tr><tr><td>93091 Calle della Testa</td><td>Calle della Testa</td></tr></tbody></table>
+street_address         |NO NUMBER        |
+-----------------------+-----------------+
+1297 Via Cola di Rie   |Via Cola di Rie  |
+93091 Calle della Testa|Calle della Testa|
