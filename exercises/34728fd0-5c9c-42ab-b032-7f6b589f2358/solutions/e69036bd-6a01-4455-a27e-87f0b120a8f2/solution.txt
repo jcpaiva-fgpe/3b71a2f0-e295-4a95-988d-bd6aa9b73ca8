@@ -5,4 +5,4 @@ WHERE HIRE_DATE >= ALL (
     FROM employees JOIN departments USING (DEPARTMENT_ID)
     WHERE DEPARTMENT_NAME = 'Shipping'
 )
-AND DEPARTMENT_NAME = 'Shipping'
+AND DEPARTMENT_NAME = 'Shipping';
