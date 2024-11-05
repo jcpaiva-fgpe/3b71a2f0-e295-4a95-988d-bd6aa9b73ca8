@@ -1,1 +1,37 @@
-<table><tbody><tr><th>first_name</th><th>last_name</th><th>MONTHLY SALARY</th><th>SALARY with COMMISSION</th></tr><tr><td>John</td><td>Russell</td><td>1166.6666666666666667</td><td>1633</td></tr><tr><td>Karen</td><td>Partners</td><td>1125.0000000000000000</td><td>1462</td></tr><tr><td>Alberto</td><td>Errazuriz</td><td>1000.0000000000000000</td><td>1300</td></tr><tr><td>Lisa</td><td>Ozer</td><td>958.3333333333333333</td><td>1197</td></tr><tr><td>Ellen</td><td>Abel</td><td>916.6666666666666667</td><td>1191</td></tr><tr><td>Gerald</td><td>Cambrault</td><td>916.6666666666666667</td><td>1191</td></tr><tr><td>Janette</td><td>King</td><td>833.3333333333333333</td><td>1124</td></tr><tr><td>Clara</td><td>Vishney</td><td>875.0000000000000000</td><td>1093</td></tr><tr><td>Peter</td><td>Tucker</td><td>833.3333333333333333</td><td>1083</td></tr><tr><td>Patrick</td><td>Sully</td><td>791.6666666666666667</td><td>1068</td></tr><tr><td>Eleni</td><td>Zlotkey</td><td>875.0000000000000000</td><td>1050</td></tr><tr><td>Allan</td><td>McEwen</td><td>750.0000000000000000</td><td>1012</td></tr><tr><td>Harrison</td><td>Bloom</td><td>833.3333333333333333</td><td>999</td></tr><tr><td>David</td><td>Bernstein</td><td>791.6666666666666667</td><td>989</td></tr><tr><td>Tayler</td><td>Fox</td><td>800.0000000000000000</td><td>960</td></tr><tr><td>Peter</td><td>Hall</td><td>750.0000000000000000</td><td>937</td></tr><tr><td>Alyssa</td><td>Hutton</td><td>733.3333333333333333</td><td>916</td></tr><tr><td>Danielle</td><td>Greene</td><td>791.6666666666666667</td><td>910</td></tr><tr><td>Lindsey</td><td>Smith</td><td>666.6666666666666667</td><td>866</td></tr><tr><td>Jonathon</td><td>Taylor</td><td>716.6666666666666667</td><td>860</td></tr><tr><td>Jack</td><td>Livingston</td><td>700.0000000000000000</td><td>840</td></tr><tr><td>Louise</td><td>Doran</td><td>625.0000000000000000</td><td>812</td></tr><tr><td>Christopher</td><td>Olsen</td><td>666.6666666666666667</td><td>800</td></tr><tr><td>Nanette</td><td>Cambrault</td><td>625.0000000000000000</td><td>750</td></tr><tr><td>Sarath</td><td>Sewall</td><td>583.3333333333333333</td><td>729</td></tr><tr><td>William</td><td>Smith</td><td>616.6666666666666667</td><td>709</td></tr><tr><td>Elizabeth</td><td>Bates</td><td>608.3333333333333333</td><td>699</td></tr><tr><td>Kimberely</td><td>Grant</td><td>583.3333333333333333</td><td>670</td></tr><tr><td>Oliver</td><td>Tuvault</td><td>583.3333333333333333</td><td>670</td></tr><tr><td>Mattea</td><td>Marvins</td><td>600.0000000000000000</td><td>660</td></tr><tr><td>David</td><td>Lee</td><td>566.6666666666666667</td><td>623</td></tr><tr><td>Sundar</td><td>Ande</td><td>533.3333333333333333</td><td>586</td></tr><tr><td>Amit</td><td>Banda</td><td>516.6666666666666667</td><td>568</td></tr><tr><td>Charles</td><td>Johnson</td><td>516.6666666666666667</td><td>568</td></tr><tr><td>Sundita</td><td>Kumar</td><td>508.3333333333333333</td><td>559</td></tr></tbody></table>
+first_name |last_name |MONTHLY SALARY       |SALARY with COMMISSION|
+-----------+----------+---------------------+----------------------+
+John       |Russell   |1166.6666666666666667|                  1633|
+Karen      |Partners  |1125.0000000000000000|                  1462|
+Alberto    |Errazuriz |1000.0000000000000000|                  1300|
+Lisa       |Ozer      | 958.3333333333333333|                  1197|
+Ellen      |Abel      | 916.6666666666666667|                  1191|
+Gerald     |Cambrault | 916.6666666666666667|                  1191|
+Janette    |King      | 833.3333333333333333|                  1124|
+Clara      |Vishney   | 875.0000000000000000|                  1093|
+Peter      |Tucker    | 833.3333333333333333|                  1083|
+Patrick    |Sully     | 791.6666666666666667|                  1068|
+Eleni      |Zlotkey   | 875.0000000000000000|                  1050|
+Allan      |McEwen    | 750.0000000000000000|                  1012|
+Harrison   |Bloom     | 833.3333333333333333|                   999|
+David      |Bernstein | 791.6666666666666667|                   989|
+Tayler     |Fox       | 800.0000000000000000|                   960|
+Peter      |Hall      | 750.0000000000000000|                   937|
+Alyssa     |Hutton    | 733.3333333333333333|                   916|
+Danielle   |Greene    | 791.6666666666666667|                   910|
+Lindsey    |Smith     | 666.6666666666666667|                   866|
+Jonathon   |Taylor    | 716.6666666666666667|                   860|
+Jack       |Livingston| 700.0000000000000000|                   840|
+Louise     |Doran     | 625.0000000000000000|                   812|
+Christopher|Olsen     | 666.6666666666666667|                   800|
+Nanette    |Cambrault | 625.0000000000000000|                   750|
+Sarath     |Sewall    | 583.3333333333333333|                   729|
+William    |Smith     | 616.6666666666666667|                   709|
+Elizabeth  |Bates     | 608.3333333333333333|                   699|
+Kimberely  |Grant     | 583.3333333333333333|                   670|
+Oliver     |Tuvault   | 583.3333333333333333|                   670|
+Mattea     |Marvins   | 600.0000000000000000|                   660|
+David      |Lee       | 566.6666666666666667|                   623|
+Sundar     |Ande      | 533.3333333333333333|                   586|
+Amit       |Banda     | 516.6666666666666667|                   568|
+Charles    |Johnson   | 516.6666666666666667|                   568|
+Sundita    |Kumar     | 508.3333333333333333|                   559|
