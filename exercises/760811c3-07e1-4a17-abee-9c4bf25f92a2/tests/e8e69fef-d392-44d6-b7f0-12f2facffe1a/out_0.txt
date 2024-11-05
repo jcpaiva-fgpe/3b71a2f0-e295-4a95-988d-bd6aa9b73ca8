@@ -1,1 +1,7 @@
-<table><tbody><tr><th>job_title</th><th>min_salary</th><th>max_salary</th></tr><tr><td>Administration Assistant</td><td>3000</td><td>6000</td></tr><tr><td>Sales Representative</td><td>6000</td><td>12000</td></tr><tr><td>Sales Manager</td><td>10000</td><td>20000</td></tr><tr><td>Administration Vice President</td><td>15000</td><td>30000</td></tr><tr><td>President</td><td>20000</td><td>40000</td></tr></tbody></table>
+job_title                    |min_salary|max_salary|
+-----------------------------+----------+----------+
+Administration Assistant     |      3000|      6000|
+Sales Representative         |      6000|     12000|
+Sales Manager                |     10000|     20000|
+Administration Vice President|     15000|     30000|
+President                    |     20000|     40000|
