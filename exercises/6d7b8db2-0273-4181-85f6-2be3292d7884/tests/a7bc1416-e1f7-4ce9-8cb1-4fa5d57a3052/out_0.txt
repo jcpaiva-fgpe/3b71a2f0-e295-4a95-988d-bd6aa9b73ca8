@@ -1,1 +1,39 @@
-<table><tbody><tr><th>first_name</th><th>last_name</th><th>job_id</th></tr><tr><td>Ellen</td><td>Abel</td><td>SA_REP</td></tr><tr><td>Sundar</td><td>Ande</td><td>SA_REP</td></tr><tr><td>Amit</td><td>Banda</td><td>SA_REP</td></tr><tr><td>Elizabeth</td><td>Bates</td><td>SA_REP</td></tr><tr><td>David</td><td>Bernstein</td><td>SA_REP</td></tr><tr><td>Harrison</td><td>Bloom</td><td>SA_REP</td></tr><tr><td>Gerald</td><td>Cambrault</td><td>SA_MAN</td></tr><tr><td>Nanette</td><td>Cambrault</td><td>SA_REP</td></tr><tr><td>Louise</td><td>Doran</td><td>SA_REP</td></tr><tr><td>Alberto</td><td>Errazuriz</td><td>SA_MAN</td></tr><tr><td>Pat</td><td>Fay</td><td>MK_REP</td></tr><tr><td>Tayler</td><td>Fox</td><td>SA_REP</td></tr><tr><td>Kimberely</td><td>Grant</td><td>SA_REP</td></tr><tr><td>Danielle</td><td>Greene</td><td>SA_REP</td></tr><tr><td>Peter</td><td>Hall</td><td>SA_REP</td></tr><tr><td>Michael</td><td>Hartstein</td><td>MK_MAN</td></tr><tr><td>Alyssa</td><td>Hutton</td><td>SA_REP</td></tr><tr><td>Charles</td><td>Johnson</td><td>SA_REP</td></tr><tr><td>Janette</td><td>King</td><td>SA_REP</td></tr><tr><td>Sundita</td><td>Kumar</td><td>SA_REP</td></tr><tr><td>David</td><td>Lee</td><td>SA_REP</td></tr><tr><td>Jack</td><td>Livingston</td><td>SA_REP</td></tr><tr><td>Mattea</td><td>Marvins</td><td>SA_REP</td></tr><tr><td>Allan</td><td>McEwen</td><td>SA_REP</td></tr><tr><td>Christopher</td><td>Olsen</td><td>SA_REP</td></tr><tr><td>Lisa</td><td>Ozer</td><td>SA_REP</td></tr><tr><td>Karen</td><td>Partners</td><td>SA_MAN</td></tr><tr><td>John</td><td>Russell</td><td>SA_MAN</td></tr><tr><td>Sarath</td><td>Sewall</td><td>SA_REP</td></tr><tr><td>Lindsey</td><td>Smith</td><td>SA_REP</td></tr><tr><td>William</td><td>Smith</td><td>SA_REP</td></tr><tr><td>Patrick</td><td>Sully</td><td>SA_REP</td></tr><tr><td>Jonathon</td><td>Taylor</td><td>SA_REP</td></tr><tr><td>Peter</td><td>Tucker</td><td>SA_REP</td></tr><tr><td>Oliver</td><td>Tuvault</td><td>SA_REP</td></tr><tr><td>Clara</td><td>Vishney</td><td>SA_REP</td></tr><tr><td>Eleni</td><td>Zlotkey</td><td>SA_MAN</td></tr></tbody></table>
+first_name |last_name |job_id|
+-----------+----------+------+
+Ellen      |Abel      |SA_REP|
+Sundar     |Ande      |SA_REP|
+Amit       |Banda     |SA_REP|
+Elizabeth  |Bates     |SA_REP|
+David      |Bernstein |SA_REP|
+Harrison   |Bloom     |SA_REP|
+Gerald     |Cambrault |SA_MAN|
+Nanette    |Cambrault |SA_REP|
+Louise     |Doran     |SA_REP|
+Alberto    |Errazuriz |SA_MAN|
+Pat        |Fay       |MK_REP|
+Tayler     |Fox       |SA_REP|
+Kimberely  |Grant     |SA_REP|
+Danielle   |Greene    |SA_REP|
+Peter      |Hall      |SA_REP|
+Michael    |Hartstein |MK_MAN|
+Alyssa     |Hutton    |SA_REP|
+Charles    |Johnson   |SA_REP|
+Janette    |King      |SA_REP|
+Sundita    |Kumar     |SA_REP|
+David      |Lee       |SA_REP|
+Jack       |Livingston|SA_REP|
+Mattea     |Marvins   |SA_REP|
+Allan      |McEwen    |SA_REP|
+Christopher|Olsen     |SA_REP|
+Lisa       |Ozer      |SA_REP|
+Karen      |Partners  |SA_MAN|
+John       |Russell   |SA_MAN|
+Sarath     |Sewall    |SA_REP|
+Lindsey    |Smith     |SA_REP|
+William    |Smith     |SA_REP|
+Patrick    |Sully     |SA_REP|
+Jonathon   |Taylor    |SA_REP|
+Peter      |Tucker    |SA_REP|
+Oliver     |Tuvault   |SA_REP|
+Clara      |Vishney   |SA_REP|
+Eleni      |Zlotkey   |SA_MAN|
