@@ -1,1 +1,7 @@
-<table><tbody><tr><th>first_name</th><th>last_name</th><th>salary</th></tr><tr><td>Alexander</td><td>Hunold</td><td>9000.00</td></tr><tr><td>Bruce</td><td>Ernst</td><td>6000.00</td></tr><tr><td>David</td><td>Austin</td><td>4800.00</td></tr><tr><td>Valli</td><td>Pataballa</td><td>4800.00</td></tr><tr><td>Diana</td><td>Lorentz</td><td>4200.00</td></tr></tbody></table>
+first_name|last_name|salary |
+----------+---------+-------+
+Alexander |Hunold   |9000.00|
+Bruce     |Ernst    |6000.00|
+David     |Austin   |4800.00|
+Valli     |Pataballa|4800.00|
+Diana     |Lorentz  |4200.00|
