@@ -1,1 +1,7 @@
-<table><tbody><tr><th>first_name</th><th>last_name</th><th>department_id</th></tr><tr><td>Lex</td><td>De Haan</td><td>90</td></tr><tr><td>Pat</td><td>Fay</td><td>20</td></tr><tr><td>Michael</td><td>Hartstein</td><td>20</td></tr><tr><td>Steven</td><td>King</td><td>90</td></tr><tr><td>Neena</td><td>Kochhar</td><td>90</td></tr></tbody></table>
+first_name|last_name|department_id|
+----------+---------+-------------+
+Lex       |De Haan  |           90|
+Pat       |Fay      |           20|
+Michael   |Hartstein|           20|
+Steven    |King     |           90|
+Neena     |Kochhar  |           90|
