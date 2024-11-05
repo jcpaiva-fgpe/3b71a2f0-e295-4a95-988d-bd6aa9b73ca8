@@ -1,1 +1,3 @@
-<table><tbody><tr><th>BEST PAID DEVELOPERS</th></tr><tr><td>2</td></tr></tbody></table>
+BEST PAID DEVELOPERS|
+--------------------+
+                   2|
