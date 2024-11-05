@@ -1,1 +1,3 @@
-<table><tbody><tr><th>city</th><th>state_province</th><th>country_id</th></tr><tr><td>Tokyo</td><td>Tokyo Prefecture</td><td>JP</td></tr></tbody></table>
+city |state_province  |country_id|
+-----+----------------+----------+
+Tokyo|Tokyo Prefecture|JP        |
