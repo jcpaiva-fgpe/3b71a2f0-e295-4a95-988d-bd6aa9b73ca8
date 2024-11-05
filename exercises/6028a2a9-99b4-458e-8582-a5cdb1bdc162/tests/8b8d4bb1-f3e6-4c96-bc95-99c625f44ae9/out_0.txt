@@ -1,1 +1,29 @@
-<table><tbody><tr><th>department_name</th></tr><tr><td>Treasury</td></tr><tr><td>Shipping</td></tr><tr><td>Shareholder Services</td></tr><tr><td>Sales</td></tr><tr><td>Retail Sales</td></tr><tr><td>Recruiting</td></tr><tr><td>Purchasing</td></tr><tr><td>Public Relations</td></tr><tr><td>Payroll</td></tr><tr><td>Operations</td></tr><tr><td>NOC</td></tr><tr><td>Marketing</td></tr><tr><td>Manufacturing</td></tr><tr><td>IT Support</td></tr><tr><td>IT Helpdesk</td></tr><tr><td>IT</td></tr><tr><td>Human Resources</td></tr><tr><td>Government Sales</td></tr><tr><td>Finance</td></tr><tr><td>Executive</td></tr><tr><td>Corporate Tax</td></tr><tr><td>Control And Credit</td></tr><tr><td>Contracting</td></tr><tr><td>Construction</td></tr><tr><td>Benefits</td></tr><tr><td>Administration</td></tr><tr><td>Accounting</td></tr></tbody></table>
+department_name     |
+--------------------+
+Treasury            |
+Shipping            |
+Shareholder Services|
+Sales               |
+Retail Sales        |
+Recruiting          |
+Purchasing          |
+Public Relations    |
+Payroll             |
+Operations          |
+NOC                 |
+Marketing           |
+Manufacturing       |
+IT Support          |
+IT Helpdesk         |
+IT                  |
+Human Resources     |
+Government Sales    |
+Finance             |
+Executive           |
+Corporate Tax       |
+Control And Credit  |
+Contracting         |
+Construction        |
+Benefits            |
+Administration      |
+Accounting          |
