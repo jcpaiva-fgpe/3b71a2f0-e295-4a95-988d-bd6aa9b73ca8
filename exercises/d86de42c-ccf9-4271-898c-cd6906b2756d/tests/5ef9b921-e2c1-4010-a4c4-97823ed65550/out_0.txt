@@ -1,1 +1,4 @@
-<table><tbody><tr><th>first_name</th><th>last_name</th><th>department_name</th></tr><tr><td>Den</td><td>Raphaely</td><td>Purchasing</td></tr><tr><td>Adam</td><td>Fripp</td><td>Shipping</td></tr></tbody></table>
+first_name|last_name|department_name|
+----------+---------+---------------+
+Den       |Raphaely |Purchasing     |
+Adam      |Fripp    |Shipping       |
