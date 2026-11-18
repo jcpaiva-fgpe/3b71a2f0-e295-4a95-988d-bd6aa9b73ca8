@@ -9,15 +9,16 @@ el servidor encontrar&iacute;a dos atributos con el mismo nombre en cada una de 
     Es decir, los empleados que, en el atributo <code>DEPARTMENT_ID</code> tienen el mismo valor que el registro de departamentos que tiene por nombre <em>&#39;IT&#39;</em>?</p>
     <blockquote><p><code>SELECT FIRST_NAME, LAST_NAME, DEPARTMENT_NAME<br />FROM employees <strong>JOIN</strong> departments <strong>USING(DEPARTMENT_ID)</strong><br />
     WHERE DEPARTMENT_NAME = &#39;IT&#39;<br />ORDER BY LAST_NAME;</code></p>
-    <pre> first_name | last_name | department_name
-          ------------+-----------+-----------------
-           David      | Austin    | IT
-           Bruce      | Ernst     | IT
-           Alexander  | Hunold    | IT
-           Diana      | Lorentz   | IT
-           Valli      | Pataballa | IT
-        (5 rows)
-    </pre>
+<pre>
+ first_name | last_name | department_name
+------------+-----------+-----------------
+ David      | Austin    | IT
+ Bruce      | Ernst     | IT
+ Alexander  | Hunold    | IT
+ Diana      | Lorentz   | IT
+ Valli      | Pataballa | IT
+ (5 rows)
+</pre>
     </blockquote>
     <h3>Ejercicio</h3>
     <p>Muestra el nombre, apellidos y tiempo en el que se han registrado cambios de trabajo (<code>job_history</code>) en el departamento 50. 
